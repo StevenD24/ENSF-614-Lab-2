@@ -1,4 +1,4 @@
-# ENSF 614 Assignment 2    
+# ENSF 614 Lab 2    
 An assignment on arrays, strings, pointers and structs in C++
 
 ## Folder Structure 
